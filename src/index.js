@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 class App extends React.Component {
   render() {
-    return <div>APP</div>;
+    return <div>changed</div>;
   }
 }
 ReactDOM.render(<App />, document.querySelector("#root"));
